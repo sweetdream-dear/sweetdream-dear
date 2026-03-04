@@ -5,11 +5,13 @@
 
 ---
 
-
+<div align="center">
  
- <img align src="https://img.sanishtech.com/u/e79e91a6eb0d96a1bb3702b42f40a274.png" align="left" width="192"> my Sprout to my Astro: S ‹3
+ <img align src="https://img.sanishtech.com/u/e79e91a6eb0d96a1bb3702b42f40a274.png" align="left" width="192"> 
+ 
+ my Sprout to my Astro: S ‹3
 
-
+</div>
 
 <div align="center">
 
