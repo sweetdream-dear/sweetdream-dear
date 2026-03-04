@@ -11,9 +11,13 @@
 
 </div>
 
+
 <br clear="all">
 <div align="center">
-nonsharing yumes: astro , pierrot and jester !!
+nonsharing yumes: 
+ astro 
+ &
+ pierrot , jester !!
 </div>
 
 <div align="center">
