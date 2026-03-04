@@ -7,7 +7,7 @@
 
 <div align="center">
  
- <img align src="https://img.sanishtech.com/u/a3fa64cc00ee33c64124b452bae45bf1.png" align="left" width="192"> 
+ <img align src="https://img.sanishtech.com/u/e79e91a6eb0d96a1bb3702b42f40a274.png" align="left" width="192"> 
 
 </div>
 
