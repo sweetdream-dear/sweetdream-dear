@@ -1,6 +1,6 @@
 <div align="center">
  
- <img align src="https://image2url.com/r2/default/images/1772609292954-b132aad6-56fc-471f-a1cd-2dc51446144b.png" align="left" width="50"> burps
+ <img align src="https://img.sanishtech.com/u/a3fa64cc00ee33c64124b452bae45bf1.png" align="left" width="50"> burps
 
 </div>
 
