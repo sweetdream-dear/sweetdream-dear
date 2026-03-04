@@ -15,7 +15,8 @@
 
 <br clear="all">
 <div align="center">
--
+
+ 
  
  f/o / yumes [nonsharing] : 
  [ astro ]
@@ -23,16 +24,17 @@
  [ pierrot , jester !! ]
 </div>
 
--
 
-<div align="center">
-  
-<img width="919" height="180" alt="Image" src="https://github.com/user-attachments/assets/2dc0eaec-d647-46c7-b432-9c1ee10b941f" />
 
-</div> 
 
 <div align="center">
 
 [![Hits](https://hits.sh/github.com/hiopes.svg?label=%E2%80%B93&color=a2d7ee&labelColor=7080bd)](https://hits.sh/github.com/hiopes/)
 
 </div>
+
+<div align="center">
+  
+<img width="919" height="180" alt="Image" src="https://github.com/user-attachments/assets/2dc0eaec-d647-46c7-b432-9c1ee10b941f" />
+
+</div> 
