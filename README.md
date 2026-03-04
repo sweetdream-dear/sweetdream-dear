@@ -1,13 +1,14 @@
 <div align="center">
+ ! wip ! 
+    HEAVILY UNDER CONSTRUCTION 
+</div>
+
+---
+
+<div align="center">
  
  <img align src="https://img.sanishtech.com/u/a3fa64cc00ee33c64124b452bae45bf1.png" align="left" width="192"> 
 
-</div>
-
-
-<div align="center">
- ! wip ! 
-    HEAVILY UNDER CONSTRUCTION 
 </div>
 
 <div align="center">
