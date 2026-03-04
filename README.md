@@ -15,7 +15,7 @@
 <br clear="all">
 <div align="center">
 
- nonsharing yumes: 
+ f/o / yumes [nonsharing] : 
  [ astro ]
  &
  [ pierrot , jester !! ]
