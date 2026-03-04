@@ -11,6 +11,7 @@
 
 </div>
 
+<br clear="all">
 <div align="center">
 nonsharing yumes: astro , pierrot and jester !!
 </div>
