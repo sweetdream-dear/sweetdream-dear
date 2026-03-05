@@ -7,7 +7,8 @@
 
 <div align="center">
 
- <img align="left" src="https://img.sanishtech.com/u/e79e91a6eb0d96a1bb3702b42f40a274.png" width="140" height="165"> ɱყ ʂρɾσυƚ ƚσ ɱყ αʂƚɾσ: S ‹3
+ <img align="left" src="https://img.sanishtech.com/u/e79e91a6eb0d96a1bb3702b42f40a274.png" width="140" height="165"> ɱყ ʂρɾσυƚ ƚσ ɱყ αʂƚɾσ: S (@F3xDevesto) ‹3 
+ CHAT FOLLOW HIM HE'S EWW
 
 </div>
 
